@@ -1,1 +1,0 @@
-(self.webpackChunkwens_app=self.webpackChunkwens_app||[]).push([[563],{36563:function(){}}]);
